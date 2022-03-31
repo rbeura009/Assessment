@@ -1,0 +1,31 @@
+{
+  "countries": [
+    {
+      "name": "United States of America",
+      "countryCode": "USA",
+      "capital": "Washington, D.C.",
+      "capitalPopulation": 323947002,
+      "Language": "English",
+      "Currency": "USD",
+      "ID": "1234"
+    },
+    {
+      "name": "India",
+      "countryCode": "IND",
+      "capital": "Delhi",
+      "capitalPopulation": 3239470016555,
+      "Language": "Hindi",
+      "Currency": "INR",
+      "ID": "1237"
+    },
+    {
+      "name": "Russia",
+      "countryCode": "RUS",
+      "capital": "Moscow",
+      "capitalPopulation": 3239470,
+      "Language": "Russian",
+      "Currency": "USD",
+      "ID": "1235"
+    }
+  ]
+}

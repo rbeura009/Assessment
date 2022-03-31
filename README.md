@@ -14,6 +14,7 @@ yarn start
 The application provides a basic setup using **Create React App** with a typescript template. 
 
 The description of the API is available [here](https://restcountries.eu/?ref=public-apis)
+In case above apis doesnt work, make use of dummy json that you would like to show up with below details.
 
 ## Requirements
 

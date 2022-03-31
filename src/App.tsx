@@ -1,7 +1,13 @@
 import React from 'react';
+import CountryTable from './Components/CountryTable';
+import './index.css';
 
 function App() {
-  return <div>Insert your code here...</div>;
+  return (
+    <section>
+      <CountryTable />
+    </section>
+  );
 }
 
 export default App;

@@ -1,0 +1,27 @@
+table.country-table {
+  height: auto;
+  width: 100%;
+}
+
+table.country-table tr {
+  width: 100%;
+  height: 2rem;
+}
+table.country-table thead tr {
+  background-color: orange;
+}
+
+table.country-table tbody tr:nth-child(2n) {
+  background-color: aqua;
+}
+
+table.country-table tr td,
+table.country-table tr th {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.table-filter {
+  width: fit-content;
+  margin-left: auto;
+}
